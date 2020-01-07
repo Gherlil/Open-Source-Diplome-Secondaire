@@ -1,4 +1,4 @@
-# Open-Source-Diplome-Secondaire
+# Open Source Diplome Secondaire
 Ceci est une version Open source du Diplome secondaire du Québec (ref:https://github.com/ForrestKnight/open-source-cs)
 
 ## Du Primaire au Secondaire  
