@@ -14,7 +14,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## ------ Secondaire ---------- 
 
-
+ ```
  ##  Secondaire 1 
  ```
  
