@@ -1,12 +1,7 @@
 # Open Source Diplôme Secondaire
 Ceci est une version Open source du Diplome secondaire du Québec (ref:https://github.com/ForrestKnight/open-source-cs)
 
-```
-
-Note
-
-
-```
+* **Secondaire 1**:
 
 
 # Du Primaire 
@@ -29,8 +24,8 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
  ### Mathématique 
 Courses | Source | Durée | Effort | Frequency | Prérequis
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathématique](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
-[Français](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+[Nombres naturels](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[Plan cartésien et Statistiques](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 [Histoire](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 [Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
