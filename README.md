@@ -13,7 +13,25 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 
 ## ------ Secondaire ---------- 
-#Documentation 
+
+
+##  Secondaire 1 
+Courses | Source | Durée | Effort | Frequency | Prérequis
+:-- | :--: | :--: | :--: | :--: | :--:
+[Mathématique](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[Français](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+[Histoire](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+[Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+
+
+
+
+
+
+
+
+
+# Documentation 
 
 
 http://www.educationmonteregie.qc.ca/archives/jourpedag/2013/documentation/
