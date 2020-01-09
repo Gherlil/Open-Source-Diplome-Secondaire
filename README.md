@@ -1,7 +1,15 @@
 # Open Source Diplôme Secondaire
 Ceci est une version Open source du Diplome secondaire du Québec (ref:https://github.com/ForrestKnight/open-source-cs)
 
-## Du Primaire 
+```
+
+Note
+
+
+```
+
+
+# Du Primaire 
 Des notes de cours et activité de toutes les années .Qui suivre les exigences MELS
 - Guide pour la langue française : (http://www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PDA_PFEQ_francais-langue-enseignement-primaire_2011.pdf)
 - Guide pour autre matière : (http://www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PFEQ-tableau-synthese-presco-primaire-2018.pdf)
@@ -12,11 +20,11 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 
-## ------ Secondaire ---------- 
+# ------ Secondaire ---------- 
 
- ```
+ 
  ##  Secondaire 1 
- ```
+ 
  
  ### Mathématique 
 Courses | Source | Durée | Effort | Frequency | Prérequis
