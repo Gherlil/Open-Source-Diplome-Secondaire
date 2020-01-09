@@ -15,7 +15,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 ## ------ Secondaire ---------- 
 
 
-##  Secondaire 1 
+ ##  Secondaire 1 
 Courses | Source | Durée | Effort | Frequency | Prérequis
 :-- | :--: | :--: | :--: | :--: | :--:
 [Mathématique](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
