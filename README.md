@@ -16,7 +16,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 
  ##  Secondaire 1 
- 
+ ```
  
  ### Mathématique 
 Courses | Source | Durée | Effort | Frequency | Prérequis
