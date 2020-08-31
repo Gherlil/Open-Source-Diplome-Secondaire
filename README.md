@@ -1,10 +1,28 @@
-# Open Source Diplôme Secondaire
+# Open Source Diplôme Secondaire D
 Ceci est une version Open source du Diplome secondaire du Québec (ref:https://github.com/ForrestKnight/open-source-cs)
 
+
+
 * **Secondaire 1**:
+* **Secondaire 2**:
+* **Secondaire 3**:
+* **Secondaire 4**:
+* **Secondaire 5**:
 
 
-# Du Primaire 
+# Resource Gratuite ou Leaked | Free Ressource 
+
+
+https://www.swlsb.ca/virtual-library
+https://edtech.swlsb.ca/
+https://edtech.swlsb.ca/at/wordq
+https://usito.usherbrooke.ca/
+https://web-a-ebscohost-jac.orc.scoolaid.net/ehost/search/basic?vid=1&sid=89d75f7d-3537-44c4-8dc4-8aa9ed42d1bd%40sdc-v-sessmgr01
+https://ebookcentral-proquest-jac.orc.scoolaid.net/lib/johnabbott-ebooks/search.action
+
+
+
+# Du Primaire | Primauiry
 Des notes de cours et activité de toutes les années .Qui suivre les exigences MELS
 - Guide pour la langue française : (http://www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PDA_PFEQ_francais-langue-enseignement-primaire_2011.pdf)
 - Guide pour autre matière : (http://www.education.gouv.qc.ca/fileadmin/site_web/documents/education/jeunes/pfeq/PFEQ-tableau-synthese-presco-primaire-2018.pdf)
@@ -19,7 +37,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
  
  ##  Secondaire 1 
- 
+
  
  ### Mathématique 
 Courses | Source | Durée | Effort | Frequency | Prérequis
